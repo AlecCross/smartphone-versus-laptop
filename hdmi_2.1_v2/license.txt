@@ -1,0 +1,11 @@
+Model Information:
+* title:	HDMI 2.1 v2
+* source:	https://sketchfab.com/3d-models/hdmi-21-v2-7b7cc2030d354e5192947b47f97332b6
+* author:	mihailov.andrey.grbin (https://sketchfab.com/mihailov.andrey.grbin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "HDMI 2.1 v2" (https://sketchfab.com/3d-models/hdmi-21-v2-7b7cc2030d354e5192947b47f97332b6) by mihailov.andrey.grbin (https://sketchfab.com/mihailov.andrey.grbin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
